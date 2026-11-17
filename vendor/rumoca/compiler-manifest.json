@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "source": "pinned-release-package",
+  "revision": "bc93cff7f7a4cccb5da5c84f8d72965885ff70c6",
+  "runId": 40570006459,
+  "version": "0.10.3",
+  "files": [
+    {
+      "file": "rumoca_bind_wasm.js",
+      "bytes": 93345,
+      "sha256": "d9d2894f03eb24d730905204b32b86caff93d351a3cd7989240232e232eb8387"
+    },
+    {
+      "file": "rumoca_bind_wasm_bg.wasm",
+      "bytes": 37167647,
+      "sha256": "b802897ce953a07592f12ea707bfbf98219e694caea9a4fc8b36513d25762ada"
+    }
+  ]
+}
